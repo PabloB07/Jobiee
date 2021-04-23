@@ -1,0 +1,1 @@
+import '@rootstrap/activeadmin-chat';
